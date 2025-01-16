@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Platform
+  - Este
+  - ToolBox
+  - MapCback
+  - Trunk
+  - MapCfront
+  - Tie
+  - LevelEnd
+  - LevelEnd2
+  - JerryCan
+  - TreeWithMesh
+  - StartTrees
+  - StartTreeDestroy
+  - AavikonEste
+  - A_ToolBox
+  - A_JerryCan
+  - MoottoriTie
+  - HighWay
+  - StartRocks
+  - Grass
+  - Car
+  - EquippedCar
+  - RightFrontWheel
+  - LeftFrontWheel
+  - Wheel
+  - RotateHelper
+  - fuelHelper
+  - A_Crass
+  - Safe
+  - A_Safe
+  - HighwayEste
+  - Fence_high_R
+  - Fence_high_L
+  - ObsCar_L
+  - ObsCar_R
+  - H_ToolBox
+  - H_Safe
+  - ObsCarStart_L
+  - ObsCarStart_R
+  - Accident_L
+  - F_h_R_BigF
+  - F_h_L_BigF
+  - InCreaseSpeed
+  - BuyButton
+  - LeftBackWheel
+  - RightBackWheel
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
